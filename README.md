@@ -182,7 +182,3 @@ docker compose down
 * логирование
 
 ---
-
-# Автор
-
-Python Backend Developer
